@@ -4,7 +4,7 @@ A plugin for Assetto Corsa that displays the tyre temperatures
 This is a simple plugin for Assetto Corsa that allows you to view the temperatures of your tyres in real time.
 
 ## Installation
-To install this plugin, put the TyreTemps folder in the apps folder in your Assetto Corsa installation. For example this would be C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\apps or something similar.
+To install this plugin, put the TyreTemps folder in the python folder in your Assetto Corsa installation. For example this would be C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\apps\python or something similar.
 
 To enable the plugin within Assetto Corsa, run Assetto Corsa and go to the UI Module section of the General Settings. TyreTemps should appear in this list; click the corresponding checkbox.
 
